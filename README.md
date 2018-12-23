@@ -10,3 +10,7 @@ For US English Keyboard
 Installation
 ---------
 Just run ```setup.exe``` and choise "Русская (Фонетическая)" as your keyboard layout.
+
+How?
+------
+* Created with official tool [Microsoft Keyboard Layout Creator](https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator)
